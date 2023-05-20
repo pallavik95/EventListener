@@ -1,0 +1,15 @@
+div{
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(137, 149, 183);
+    padding: 15px 10px;
+    background-color: rgb(17, 84, 84);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
