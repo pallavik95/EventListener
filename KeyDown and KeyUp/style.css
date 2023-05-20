@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+}
+#form{
+    width: 250px;
+    margin: 100px auto 0 auto;
+    border: 2px solid #000;
+    border-radius: 15px;
+   padding: 25px;
+   background-color: rgba(0, 0, 0, 0.5);
+   color: #fff;
+   box-shadow : inset 1px 5px;
+}
+input{
+    background-color: #fff;
+    border: #000;
+    
+}
