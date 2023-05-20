@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    height: 40px;
+    width: 90px;
+    /* border: 1px solid white; */
+    box-shadow:10px 8px 5px 6px rgb(171, 176, 208);
+    background: moccasin;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 20px;
+    color: blue;
+    border-radius: 12px;
+}
